@@ -67,6 +67,3 @@ export default function Board(props: RouteComponentProps<{ id: string }>) {
   );
 }
 
-// Square sacarlo a otra clase
-// Que sea lo mas bobo posible
-// Manejar el square como si fuera un boton
